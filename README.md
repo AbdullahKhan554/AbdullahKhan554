@@ -11,11 +11,6 @@ I'm a software developer specializing in full-stack development and machine lear
 - ⚡ Fun fact: I'm a beginner who've just dived into the world of Programming ...
 - 👋follow me  @AbdullahKhan554
 
-### Connect with me:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullah_xkhan__/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-khan-1122mak9143/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrkNpNY7rTDCOPaPqBpmYLQ%3D%3D)
 
 <!---
 AbdullahKhan554/AbdullahKhan554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
